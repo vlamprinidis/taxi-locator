@@ -1,1 +1,2 @@
-A GPS system, written in Java, that uses the A* algorithm to find the nearest taxi for a customer, based on actual street-map data, as part of an Artificial Intelligence Course.
+Implementation of a basic optimal-route selection system using AI techniques,
+as part of an AI course
